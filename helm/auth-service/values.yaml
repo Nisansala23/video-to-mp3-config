@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: 887401460535.dkr.ecr.us-east-1.amazonaws.com/video-audio-app/auth-service
-  tag: latest
+  tag: 7953e2be6e98cf18f655363b3bbe98a487c15e6d
   pullPolicy: Always
 
 service:
