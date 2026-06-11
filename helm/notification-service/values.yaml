@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: 887401460535.dkr.ecr.us-east-1.amazonaws.com/video-audio-app/notification-service
-  tag: 4d1b3880d596f6069d470f6a0e1582bc7c03ba4d
+  tag: c91f120565d5edb2d1d98407c8061a868ca827be
   pullPolicy: Always
 
 resources:
